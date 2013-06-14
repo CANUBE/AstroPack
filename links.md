@@ -2,7 +2,7 @@ Enlaces pertinentes
 ===================
 
 
-* Repositorio y link para instalaci�n de astrotaverna plugin.
+* Repositorio y link para instalación de astrotaverna plugin.
   http://wf4ever.github.io/astrotaverna/
   https://github.com/wf4ever/astrotaverna
 
@@ -13,7 +13,7 @@ Enlaces pertinentes
   http://www.myexperiment.org/packs/420.html
   http://www.myexperiment.org/packs/122.html
 
-* P�gina de topeta. aplicaci�n que implementa tap
+* Página de topeta. aplicación que implementa tap
   http://www.star.bris.ac.uk/~mbt/topcat/
   https://github.com/Starlink/starjava/tree/master/topcat/src
 
