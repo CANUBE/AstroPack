@@ -1,4 +1,4 @@
 AstroPack
 =========
 
-Creating a astrophysics starter pack integrated in Taverna with plugins integrated in MyExperiment
+Integrating direct access from Taverna to the "AstroTaverna StarterPack" published in MyExperiment
